@@ -1,2 +1,4 @@
-# ekart
-a multi-page ecommerce website design  (UI/UX)
+e-kart
+------
+
+a multi-page ecommerce website design
